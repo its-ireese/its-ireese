@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Derrice but you can call me Reese (@its-ireese). 
+- 👋 Hi, I’m Derrice but go by Reese (@its-ireese). 
 - 👀 I’m interested in tech, cars and sports. 
 - 🌱 While mastering Java, going to be learning Python.
 - 💞️ I’m looking to collaborate on anything that I can learn from and help me grow my knowledge. 
